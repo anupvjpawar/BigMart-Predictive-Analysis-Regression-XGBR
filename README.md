@@ -2,7 +2,7 @@
 Machine Learning Pipeline for Sales Prediction: Preprocess data, visualize insights, train various regression models, and generate a report. Utilizes pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost, and FPDF for model evaluation and reporting.
 
 ****
-Sales Prediction with Machine Learning****
+Sales Prediction with Machine Learning ****
 
 This project aims to predict sales for a retail dataset using machine learning techniques. The dataset is preprocessed, cleaned, and analyzed to understand the distribution of key features. Various machine learning models, including Linear Regression, Ridge, Lasso, Support Vector Machines (SVM), Decision Tree, Random Forest, and XGBoost, are trained and evaluated for their performance.
 
