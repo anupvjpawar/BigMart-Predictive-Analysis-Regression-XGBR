@@ -15,7 +15,7 @@ Model Training: Several regression models are trained on the preprocessed data, 
 PDF Report Generation: A comprehensive PDF report is generated, summarizing the model evaluation results and predictions on the test dataset.
 
 **
-Dependencies:**
+Dependencies: **
 
 pandas
 numpy
